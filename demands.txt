@@ -1,0 +1,6 @@
+Home Page: 
+    a cookie contains username
+
+Login/Register Page:
+    an error string containing the unfilled blocks/wrong format/unchecked box/password mismatch
+    values that user put in (instead of password)

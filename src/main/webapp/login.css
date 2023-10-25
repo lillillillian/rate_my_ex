@@ -1,0 +1,53 @@
+#login {
+	width: 25%;
+	position: absolute;
+	left: 20%;
+	padding: 7rem 0;
+}
+
+#register {
+	width: 25%;
+	position: absolute;
+	right: 20%;
+	padding: 3rem 0;
+}
+
+.userinf {
+	width: 80%;
+	border-radius: 2px;
+	border-width: 1px;
+	height: 24px;
+	border-color: #c3c3c3;
+	border-style:solid;
+}
+
+.regbutton {
+	border-radius: 2rem;
+	background-color: #000000;
+	color: white;
+	border: none;
+	margin: 1rem 0;
+	width: 81%;
+	height: 3rem;
+	text-align: center;	
+	cursor: pointer;
+}
+
+.fa-user-plus {
+	color: white;
+}
+
+#customBtn {
+	border-radius: 2rem;
+	background-color: #469ffe;
+	width: 81%;
+	height: 3rem;
+	border: none;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+}
+
+.header {
+	font-family: 'Rajdhani';
+}

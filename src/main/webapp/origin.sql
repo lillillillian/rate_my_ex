@@ -1,0 +1,11 @@
+USE ratemyex;
+
+INSERT INTO Username (email, username, userpassword) VALUE ("test_for_database@test.test", "test_account", "test_database");
+INSERT INTO Person (name, gender, overall_rating, rating_count) VALUE ("Wa", "Female", 3, 1);
+INSERT INTO Post (personid, userid, description, rating) VALUE (1, 1, "Overall a 'ok' person. She definitely needs a lot of time commitment. Not my type but maybe yours. She will treat you well once you two get into a relationship. Really cares about you(but maybe too much for me). She Study really hard. A little bit nerdy but do put a lot of time on extracurricular activities to improve herself. Wealthy family background but her parents might not be so friendly. Choose her if you want to have a seriously relationship(maybe marriage).", 3);
+INSERT INTO Person (name, gender, overall_rating, rating_count) VALUE ("Atom", "Male", 4, 1);
+INSERT INTO Post (personid, userid, description, rating) VALUE (2, 1, "He is a really sweet and humorous person. He will response you in unexpected way and made your day. Also really smart. He attends a lot of Mathematic competition in primary school. A good choose for high school or college love. He studied kinda hard but not that much(serval years ago, not sure about know).", 4);
+INSERT INTO Person (name, gender, overall_rating, rating_count) VALUE ("Tao", "Female", 4, 1);
+INSERT INTO Post (personid, userid, description, rating) VALUE (3, 1, "Extremely Cleaver and hardworking person. Wealthy family background. Love cycling. Lack of romantic experiences. Quarrel are bound to happen in daily life (Again, because he is single for a looooong time). But still, he is gorgeous and love to have a serious relationship. Believe me and treat him well!", 4);
+INSERT INTO Person (name, gender, overall_rating, rating_count) VALUE ("Yi", "Female", 5, 1);
+INSERT INTO Post (personid, userid, description, rating) VALUE (4, 1, "An enthusiastic person of snowboarding and cycling. (always get the first place in any snowboarding competition). He is interesting, humors, and . Someone will feel uncomfortable with his joke if they are a feminist. But tbh it's not a big deal. He doesn't care about study and working like the other people in my friend circle. However, he do have a lot of merits that you should definitely try him!", 5);

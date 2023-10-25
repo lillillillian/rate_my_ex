@@ -1,0 +1,1771 @@
+{
+    "businesses": [
+        {
+            "id": "SLxKy00itrk-ta8r8zCzTA",
+            "alias": "easy-street-burgers-los-angeles",
+            "name": "Easy Street Burgers",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kkJ9A3hFzwOPLYHxqkrrrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/easy-street-burgers-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 206,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.088796,
+                "longitude": -118.308573
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1000 N Western Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90029",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1000 N Western Ave",
+                    "Los Angeles, CA 90029"
+                ]
+            },
+            "phone": "+18189663009",
+            "display_phone": "(818) 966-3009",
+            "distance": 3247.065962603458
+        },
+        {
+            "id": "4JZK5nkIP6vKXdWNK8qXEg",
+            "alias": "burger-she-wrote-los-angeles-2",
+            "name": "Burger She Wrote",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SJL9BlKsKXOiUaOcGCwObg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-she-wrote-los-angeles-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 60,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.0760151,
+                "longitude": -118.35244
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "7454 1/2 Beverly Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90036",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "7454 1/2 Beverly Blvd",
+                    "Los Angeles, CA 90036"
+                ]
+            },
+            "phone": "+13232723474",
+            "display_phone": "(323) 272-3474",
+            "distance": 3280.4709120709385
+        },
+        {
+            "id": "XlWFM7ut_TFH0TzwcdPzkQ",
+            "alias": "the-win-dow-venice-boardwalk-los-angeles-3",
+            "name": "The Win-Dow - Venice Boardwalk",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OLOryiaNNtWbZmgpTCJnLg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-win-dow-venice-boardwalk-los-angeles-3?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 111,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 33.9854236,
+                "longitude": -118.4722854
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1827 Ocean Front Walk",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90291",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1827 Ocean Front Walk",
+                    "Los Angeles, CA 90291"
+                ]
+            },
+            "phone": "+14242594834",
+            "display_phone": "(424) 259-4834",
+            "distance": 16283.120449246555
+        },
+        {
+            "id": "aOvUcX4sZEm8BYDkp_561w",
+            "alias": "chris-n-eddy-s-los-angeles",
+            "name": "Chris N’ Eddy’s",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sz-wTODk_N7cAKiRwdcdNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chris-n-eddy-s-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 126,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0983925,
+                "longitude": -118.3107247
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5539 Sunset Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90028",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5539 Sunset Blvd",
+                    "Los Angeles, CA 90028"
+                ]
+            },
+            "phone": "+13235443600",
+            "display_phone": "(323) 544-3600",
+            "distance": 4208.327080846563
+        },
+        {
+            "id": "DJek3FUewBzMc0gS-Gms9w",
+            "alias": "morrison-atwater-village-los-angeles",
+            "name": "Morrison Atwater Village",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rSDJYD7foVFKvk0Dy6SzzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/morrison-atwater-village-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 5088,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.12384,
+                "longitude": -118.26868
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3179 Los Feliz Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90039",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3179 Los Feliz Blvd",
+                    "Los Angeles, CA 90039"
+                ]
+            },
+            "phone": "+13236671839",
+            "display_phone": "(323) 667-1839",
+            "distance": 8445.157607209154
+        },
+        {
+            "id": "3_K8UCyMkLiDH4SwaLPylQ",
+            "alias": "blasteran-beverly-hills",
+            "name": "Blasteran",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cPKA2KCMiCmO8cvLeNFiGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blasteran-beverly-hills?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 330,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 34.063192,
+                "longitude": -118.375939
+            },
+            "transactions": [
+                "delivery",
+                "restaurant_reservation",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "272 South La Cienega Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Beverly Hills",
+                "zip_code": "90211",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "272 South La Cienega Blvd",
+                    "Beverly Hills, CA 90211"
+                ]
+            },
+            "phone": "+14242743611",
+            "display_phone": "(424) 274-3611",
+            "distance": 5028.907294462858
+        },
+        {
+            "id": "XHTsPRgT9UNBi_iZ15nFmw",
+            "alias": "blue-bird-burgers-los-angeles",
+            "name": "Blue Bird Burgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bi-SzjgZF0jjlcN2ZRu9yg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blue-bird-burgers-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 68,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 34.06918,
+                "longitude": -118.29441
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "3601 W 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90020",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3601 W 3rd St",
+                    "Los Angeles, CA 90020"
+                ]
+            },
+            "phone": "+12133185535",
+            "display_phone": "(213) 318-5535",
+            "distance": 2630.695918151583
+        },
+        {
+            "id": "Q3pwRtT8v8oTCKFEYJgCbg",
+            "alias": "cassells-hamburgers-los-angeles-2",
+            "name": "Cassell's Hamburgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bFM8O7BGe8eqcp8F8cMkOQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cassells-hamburgers-los-angeles-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 1688,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.06333,
+                "longitude": -118.30072
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3600 W 6th St",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90020",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3600 W 6th St",
+                    "Los Angeles, CA 90020"
+                ]
+            },
+            "phone": "+12133875502",
+            "display_phone": "(213) 387-5502",
+            "distance": 1928.6983368720612
+        },
+        {
+            "id": "esdnaTuF0U9JGU447A0yvQ",
+            "alias": "goldburger-los-angeles",
+            "name": "Goldburger",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CYB8wYotfmQwjGdxRFVd2g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/goldburger-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 234,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.1194678,
+                "longitude": -118.1958786
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5623 York Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90042",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5623 York Blvd",
+                    "Los Angeles, CA 90042"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 13228.137906182159
+        },
+        {
+            "id": "g1RqknBKd1r1ajHW8xhAkQ",
+            "alias": "hollywood-burger-los-angeles",
+            "name": "Hollywood Burger",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Rh0RGoUrG4FrfWF2MXvt5A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hollywood-burger-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 701,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.10145472844192,
+                "longitude": -118.32601257150795
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "6250 Hollywood Blvd",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90028",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6250 Hollywood Blvd",
+                    "Ste 100",
+                    "Los Angeles, CA 90028"
+                ]
+            },
+            "phone": "+13233785668",
+            "display_phone": "(323) 378-5668",
+            "distance": 4453.279969325831
+        },
+        {
+            "id": "26fIBSlQkaTa29uoKAvZOw",
+            "alias": "burgers-never-say-die-los-angeles-2",
+            "name": "Burgers Never Say Die",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B-KMybddnREZTdFkd0urkQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgers-never-say-die-los-angeles-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 865,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.09985641,
+                "longitude": -118.25892958
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2388 Glendale Blvd",
+                "address2": "Unit A",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90039",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2388 Glendale Blvd",
+                    "Unit A",
+                    "Los Angeles, CA 90039"
+                ]
+            },
+            "phone": "+13239226161",
+            "display_phone": "(323) 922-6161",
+            "distance": 7154.440369932181
+        },
+        {
+            "id": "rMPUk3S0KppytGvrsqmQ8g",
+            "alias": "the-fix-burger-los-angeles",
+            "name": "The Fix Burger",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V4XaE2Ms6Na9BlZb07ymIg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-fix-burger-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 762,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.1048199,
+                "longitude": -118.27272
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2520 Hyperion Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90027",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2520 Hyperion Ave",
+                    "Los Angeles, CA 90027"
+                ]
+            },
+            "phone": "+13236618494",
+            "display_phone": "(323) 661-8494",
+            "distance": 6561.684295413282
+        },
+        {
+            "id": "6U55z4ejutsNYh7jAdWdwA",
+            "alias": "black-sheep-burgers-los-angeles",
+            "name": "Black Sheep Burgers",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wZy9nLQvmDmV-zO6SHddpQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/black-sheep-burgers-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 513,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.039413,
+                "longitude": -118.442961
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "11313 Mississippi Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90025",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "11313 Mississippi Ave",
+                    "Los Angeles, CA 90025"
+                ]
+            },
+            "phone": "+14243729210",
+            "display_phone": "(424) 372-9210",
+            "distance": 11469.29646322527
+        },
+        {
+            "id": "Nm1iV8Aaat4EF_0hPevXhg",
+            "alias": "burgershop-los-angeles-2",
+            "name": "BurgerShop",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6WGQmaFIgkZFyUI-pCVoPg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgershop-los-angeles-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 121,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.04384,
+                "longitude": -118.25268
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "724 S Spring St",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90014",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "724 S Spring St",
+                    "Los Angeles, CA 90014"
+                ]
+            },
+            "phone": "+12132676993",
+            "display_phone": "(213) 267-6993",
+            "distance": 6638.311713679442
+        },
+        {
+            "id": "sYn3SNQP-j2t2XSwjlCbRg",
+            "alias": "montys-good-burger-los-angeles",
+            "name": "Monty's Good Burger",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NaDjAGKMS7KhTX9dYMo7_Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/montys-good-burger-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 2268,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.06469,
+                "longitude": -118.30876
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "516 S Western Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90020",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "516 S Western Ave",
+                    "Los Angeles, CA 90020"
+                ]
+            },
+            "phone": "+12139150257",
+            "display_phone": "(213) 915-0257",
+            "distance": 1206.4348071176648
+        },
+        {
+            "id": "fETqhZO6YjM1VTWCJpT8VA",
+            "alias": "lowboy-los-angeles-3",
+            "name": "Lowboy",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/u0yXHX2POsdWZBtZQ0G_nQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lowboy-los-angeles-3?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 191,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0763248,
+                "longitude": -118.2567306
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1540 Sunset Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90026",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1540 Sunset Blvd",
+                    "Los Angeles, CA 90026"
+                ]
+            },
+            "phone": "+12132668161",
+            "display_phone": "(213) 266-8161",
+            "distance": 6171.268232244014
+        },
+        {
+            "id": "oMWttbTso0Mh_aIDIAFToQ",
+            "alias": "amboy-los-angeles",
+            "name": "Amboy",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p3iW3c0qvoRLNuBfSolqJg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/amboy-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 174,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.061351,
+                "longitude": -118.239349
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "727 N Broadway",
+                "address2": "Ste 117",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90042",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "727 N Broadway",
+                    "Ste 117",
+                    "Los Angeles, CA 90042"
+                ]
+            },
+            "phone": "+12139358188",
+            "display_phone": "(213) 935-8188",
+            "distance": 7556.627065100168
+        },
+        {
+            "id": "JFA49Hzbgw0E5FdQ3UFOew",
+            "alias": "love-hour-los-angeles-2",
+            "name": "Love Hour",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NDNUj3Un0qS8xp6Do5Yamg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/love-hour-los-angeles-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 33,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 34.0643899867372,
+                "longitude": -118.308910019696
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "532 S Western Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90020",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "532 S Western Ave",
+                    "Los Angeles, CA 90020"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1190.2019618168376
+        },
+        {
+            "id": "71W-QN3-_DHnzUkAc7EG6Q",
+            "alias": "stout-burgers-and-beers-los-angeles",
+            "name": "Stout Burgers & Beers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k2lUZAeuAgqvfkpS5FxT5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/stout-burgers-and-beers-los-angeles?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 2199,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.09942,
+                "longitude": -118.32934
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1544 N Cahuenga Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90028",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1544 N Cahuenga Blvd",
+                    "Los Angeles, CA 90028"
+                ]
+            },
+            "phone": "+13234693801",
+            "display_phone": "(323) 469-3801",
+            "distance": 4276.269947958211
+        },
+        {
+            "id": "mZgFVO_0xoB2US8KPzIKiA",
+            "alias": "burger-bitch-los-angeles-4",
+            "name": "Burger Bitch",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w2o2MI7cw4Vg-gYFguseKQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-bitch-los-angeles-4?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "divebars",
+                    "title": "Dive Bars"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.03468,
+                "longitude": -118.43933
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "11326 W Pico Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90064",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "11326 W Pico Blvd",
+                    "Los Angeles, CA 90064"
+                ]
+            },
+            "phone": "+18443644120",
+            "display_phone": "(844) 364-4120",
+            "distance": 11263.080771846146
+        },
+        {
+            "id": "hgZUMSrhohHkGKeCEiiy-A",
+            "alias": "south-gate-brewing-company-oakhurst-4",
+            "name": "South Gate Brewing Company",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Po-Q8jwK0-W5HyKDsYd4tg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/south-gate-brewing-company-oakhurst-4?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 1256,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3331104,
+                "longitude": -119.660292
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "40233 Enterprise Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "40233 Enterprise Dr",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596922739",
+            "display_phone": "(559) 692-2739",
+            "distance": 32190.468670098337
+        },
+        {
+            "id": "GPP5E-f1dzAN08jNogYCjw",
+            "alias": "smokehouse-41-oakhurst",
+            "name": "Smokehouse 41",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7g1UzP5t7h-6bQ3j2DsWFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/smokehouse-41-oakhurst?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 460,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "smokehouse",
+                    "title": "Smokehouse"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.33914,
+                "longitude": -119.64334
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "40713 Hwy 41",
+                "address2": "",
+                "address3": null,
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "40713 Hwy 41",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596422271",
+            "display_phone": "(559) 642-2271",
+            "distance": 30931.491762242607
+        },
+        {
+            "id": "Ty4hB9Gez3uD4eSbfYPnAQ",
+            "alias": "the-cool-bean-cafe-oakhurst",
+            "name": "The Cool Bean Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LegdHa-goov360bsoASYug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-cool-bean-cafe-oakhurst?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 325,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.33215,
+                "longitude": -119.65455
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "40120 Hwy 41",
+                "address2": "Ste C",
+                "address3": "",
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "40120 Hwy 41",
+                    "Ste C",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596837575",
+            "display_phone": "(559) 683-7575",
+            "distance": 31699.20874012438
+        },
+        {
+            "id": "JVsvjCZhSlImlVseRnPQZg",
+            "alias": "plazuelas-mexican-restaurant-and-taqueria-oakhurst",
+            "name": "Plazuelas Mexican Restaurant & Taqueria",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y2c0WqhmYhPy2zxzBAT09A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/plazuelas-mexican-restaurant-and-taqueria-oakhurst?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 565,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.331555,
+                "longitude": -119.6563089
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "40015 Hwy 49",
+                "address2": "Ste 203 & 204",
+                "address3": "",
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "40015 Hwy 49",
+                    "Ste 203 & 204",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596587771",
+            "display_phone": "(559) 658-7771",
+            "distance": 31804.622452758053
+        },
+        {
+            "id": "5dejzAItnpvuLTtsqN_APg",
+            "alias": "casa-velasco-mexican-restaurant-bass-lake",
+            "name": "Casa Velasco Mexican Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9LjSrt8G5Trn03fLLq5fVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/casa-velasco-mexican-restaurant-bass-lake?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 205,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.32073,
+                "longitude": -119.5586
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "54311 Rd 432",
+                "address2": "",
+                "address3": "",
+                "city": "Bass Lake",
+                "zip_code": "93604",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "54311 Rd 432",
+                    "Bass Lake, CA 93604"
+                ]
+            },
+            "phone": "+15596832272",
+            "display_phone": "(559) 683-2272",
+            "distance": 23106.11349536631
+        },
+        {
+            "id": "8rmEBlB0_qBSy0P3u-kWjw",
+            "alias": "wild-fig-kitchen-coarsegold-5",
+            "name": "Wild Fig Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lhE1D8gO2J6ohIBy7npnvQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wild-fig-kitchen-coarsegold-5?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 283,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2622980132899,
+                "longitude": -119.700374975394
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "35300 Hwy 41",
+                "address2": "Ste 110",
+                "address3": "",
+                "city": "Coarsegold",
+                "zip_code": "93614",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "35300 Hwy 41",
+                    "Ste 110",
+                    "Coarsegold, CA 93614"
+                ]
+            },
+            "phone": "+15596583447",
+            "display_phone": "(559) 658-3447",
+            "distance": 34900.81718068726
+        },
+        {
+            "id": "gwANdrsPZr3ZVAqN52vwqg",
+            "alias": "the-elderberry-house-oakhurst",
+            "name": "The Elderberry House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7adut7tTEVDY972A-EcTJQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-elderberry-house-oakhurst?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 231,
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.327100397143525,
+                "longitude": -119.66091834110446
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "48688 Victoria Ln",
+                "address2": "",
+                "address3": "",
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "48688 Victoria Ln",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596836800",
+            "display_phone": "(559) 683-6800",
+            "distance": 32099.466229333673
+        },
+        {
+            "id": "M6qUGNq8_25RUs8Q9KcLaQ",
+            "alias": "duceys-on-the-lake-bass-lake-2",
+            "name": "Ducey's on the Lake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ht5jtZwkBNxPV0ryJLWTkA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/duceys-on-the-lake-bass-lake-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 469,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.3189103,
+                "longitude": -119.5570908
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "39255 Marina Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Bass Lake",
+                "zip_code": "93604",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "39255 Marina Dr",
+                    "Bass Lake, CA 93604"
+                ]
+            },
+            "phone": "+15596423131",
+            "display_phone": "(559) 642-3131",
+            "distance": 22956.019078436006
+        },
+        {
+            "id": "Vowoq0eFObqqYkdzQ-zBAQ",
+            "alias": "shaver-lake-pizza-shaver-lake",
+            "name": "Shaver Lake Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4ZluF9XYHlOybHgWJnSEwg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shaver-lake-pizza-shaver-lake?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 316,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.1074244,
+                "longitude": -119.3191947
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "41820 Tollhouse Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Shaver Lake",
+                "zip_code": "93664",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "41820 Tollhouse Rd",
+                    "Shaver Lake, CA 93664"
+                ]
+            },
+            "phone": "+15598417249",
+            "display_phone": "(559) 841-7249",
+            "distance": 17759.41573918924
+        },
+        {
+            "id": "-3A2-voqIBSQEbrupcbw5g",
+            "alias": "petes-place-oakhurst",
+            "name": "Pete's Place",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/b6i_yXPoGGqGkD9mz0jkRg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/petes-place-oakhurst?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 404,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.33106,
+                "longitude": -119.65481
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "40093 Hwy 41",
+                "address2": "",
+                "address3": "",
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "40093 Hwy 41",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596830772",
+            "display_phone": "(559) 683-0772",
+            "distance": 31684.13068965148
+        },
+        {
+            "id": "byUUxQV1CSOqJ4aFklMVrA",
+            "alias": "yosemite-national-park-yosemite-national-park-11",
+            "name": "Yosemite National Park",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cCgZvrU8qSWzcG0MGNXJAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yosemite-national-park-yosemite-national-park-11?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 1195,
+            "categories": [
+                {
+                    "alias": "parks",
+                    "title": "Parks"
+                },
+                {
+                    "alias": "campgrounds",
+                    "title": "Campgrounds"
+                },
+                {
+                    "alias": "hiking",
+                    "title": "Hiking"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.747525,
+                "longitude": -119.585552
+            },
+            "transactions": [],
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": null,
+                "city": "Yosemite National Park",
+                "zip_code": "95389",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "Yosemite National Park, CA 95389"
+                ]
+            },
+            "phone": "+12093720200",
+            "display_phone": "(209) 372-0200",
+            "distance": 58863.77059998652
+        },
+        {
+            "id": "O2fh-ejsJJc98fGJlrxiVA",
+            "alias": "huntington-lake-lakeshore",
+            "name": "Huntington Lake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YOM6q9dD4GG7IdgeexTO5A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/huntington-lake-lakeshore?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "lakes",
+                    "title": "Lakes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2554330018814,
+                "longitude": -119.161609075963
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Lake Huntington Rd Toll House Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Lakeshore",
+                "zip_code": "93634",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "Lake Huntington Rd Toll House Rd",
+                    "Lakeshore, CA 93634"
+                ]
+            },
+            "phone": "+15592970706",
+            "display_phone": "(559) 297-0706",
+            "distance": 12843.651643124414
+        },
+        {
+            "id": "_uItnZWBDKXCtNeRXo0kUg",
+            "alias": "reimers-candies-and-gifts-oakhurst-2",
+            "name": "Reimer's Candies & Gifts",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l42zVRBxsN6cqRqHejrzRA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/reimers-candies-and-gifts-oakhurst-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 128,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "candy",
+                    "title": "Candy Stores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3594409,
+                "longitude": -119.644062
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "41969 Hwy 41",
+                "address2": "",
+                "address3": "",
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "41969 Hwy 41",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596423232",
+            "display_phone": "(559) 642-3232",
+            "distance": 31618.596388213788
+        },
+        {
+            "id": "g2o1HKG93CobV_mn2sO8aQ",
+            "alias": "hungry-hut-shaver-lake",
+            "name": "Hungry Hut",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TuPjQTVLZdPE93XugasBQw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hungry-hut-shaver-lake?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 295,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.1093496,
+                "longitude": -119.3194913
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "42008 Tollhouse Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Shaver Lake",
+                "zip_code": "93664",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "42008 Tollhouse Rd",
+                    "Shaver Lake, CA 93664"
+                ]
+            },
+            "phone": "+15598413222",
+            "display_phone": "(559) 841-3222",
+            "distance": 17548.957048117296
+        },
+        {
+            "id": "0agq0wMl5TAyH4fSxN8NUA",
+            "alias": "skadi-mammoth-lakes-2",
+            "name": "SKADI",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EE8FLJhwYbg9T-mbMjHWqw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/skadi-mammoth-lakes-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 360,
+            "categories": [
+                {
+                    "alias": "modern_european",
+                    "title": "Modern European"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.6512,
+                "longitude": -118.9829
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "94 Berner St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Mammoth Lakes",
+                "zip_code": "93546",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "94 Berner St",
+                    "Ste A",
+                    "Mammoth Lakes, CA 93546"
+                ]
+            },
+            "phone": "+17609140962",
+            "display_phone": "(760) 914-0962",
+            "distance": 51372.09146095
+        },
+        {
+            "id": "QXCnHYK0fnWA9HsSXEJP6w",
+            "alias": "black-velvet-coffee-mammoth-lakes",
+            "name": "Black Velvet Coffee",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YdPL4weY6DaNm4Ch63WHAA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/black-velvet-coffee-mammoth-lakes?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 715,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.6477099,
+                "longitude": -118.97161
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3343 Main St",
+                "address2": "Ste F",
+                "address3": "",
+                "city": "Mammoth Lakes",
+                "zip_code": "93546",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3343 Main St",
+                    "Ste F",
+                    "Mammoth Lakes, CA 93546"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 51598.003486034955
+        },
+        {
+            "id": "bBLeD88rg-05Kq4zxVammA",
+            "alias": "shaver-lake-pub-n-grub-shaver-lake",
+            "name": "Shaver Lake Pub N Grub",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IXl6PwAT6x-mICNS8ODdfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shaver-lake-pub-n-grub-shaver-lake?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.1075958172791,
+                "longitude": -119.318211860955
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "41782 Dorabella Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Shaver Lake",
+                "zip_code": "93664",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "41782 Dorabella Rd",
+                    "Shaver Lake, CA 93664"
+                ]
+            },
+            "phone": "+15598414411",
+            "display_phone": "(559) 841-4411",
+            "distance": 17738.47103966455
+        },
+        {
+            "id": "ApH6hiYN3RCLXHpqLUIOrA",
+            "alias": "the-stove-restaurant-mammoth-lakes",
+            "name": "The Stove Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zmCRfad94i9wtfIEGmrR1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-stove-restaurant-mammoth-lakes?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 986,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.63669,
+                "longitude": -118.96669
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "644 Old Mammoth Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Mammoth Lakes",
+                "zip_code": "93546",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "644 Old Mammoth Rd",
+                    "Mammoth Lakes, CA 93546"
+                ]
+            },
+            "phone": "+17609342821",
+            "display_phone": "(760) 934-2821",
+            "distance": 50877.84082515914
+        },
+        {
+            "id": "-VGZEH8aSwWv1nYDUrNTew",
+            "alias": "el-cid-mexican-cuisine-oakhurst-2",
+            "name": "El Cid Mexican Cuisine",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BJSPRH4XnzstEhC-1l23KA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-cid-mexican-cuisine-oakhurst-2?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 424,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.358658,
+                "longitude": -119.644107
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "41939 Hwy 41",
+                "address2": "",
+                "address3": "",
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "41939 Hwy 41",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596836668",
+            "display_phone": "(559) 683-6668",
+            "distance": 31594.2633197927
+        },
+        {
+            "id": "A_7HXAZmYEEQDe8mk27urA",
+            "alias": "oakhurst-grill-and-whiskey-41-lounge-oakhurst",
+            "name": "Oakhurst Grill and Whiskey 41 Lounge",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OU2RX5W552gegriHAyPd1g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oakhurst-grill-and-whiskey-41-lounge-oakhurst?adjust_creative=TO1fKtEL34_ZeUgitrVpAQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TO1fKtEL34_ZeUgitrVpAQ",
+            "review_count": 218,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3360280886114,
+                "longitude": -119.646133705974
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "40530 Hwy 41",
+                "address2": "",
+                "address3": "",
+                "city": "Oakhurst",
+                "zip_code": "93644",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "40530 Hwy 41",
+                    "Oakhurst, CA 93644"
+                ]
+            },
+            "phone": "+15596412477",
+            "display_phone": "(559) 641-2477",
+            "distance": 31050.96588023089
+        }
+    
+    ],
+    "total": 9400,
+    "region": {
+        "center": {
+            "longitude": -118.32138061523438,
+            "latitude": 34.0615895441259
+        }
+    }
+}

@@ -1,0 +1,35 @@
+CREATE DATABASE IF NOT EXISTS ratemyex;
+USE ratemyex;
+
+CREATE TABLE IF NOT EXISTS Username (
+	email VARCHAR(100),
+	userid INT(100) NOT NULL AUTO_INCREMENT,
+    username VARCHAR(100) NOT NULL,
+    userpassword VARCHAR(100),
+    PRIMARY KEY (userid)
+);
+
+CREATE TABLE IF NOT EXISTS Person(
+	personid INT(100) NOT NULL AUTO_INCREMENT,
+	name VARCHAR(100) NOT NULL,
+	gender VARCHAR(100) NOT NULL,
+	overall_rating DOUBLE(100, 2) NOT NULL,
+	rating_count INT(100) NOT NULL,
+	PRIMARY KEY (personid)
+);
+
+CREATE TABLE IF NOT EXISTS Post (
+	postid INT(100) NOT NULL AUTO_INCREMENT,
+	personid INT(100) NOT NULL,
+	userid INT(100) NOT NULL,
+	description VARCHAR(2000) NOT NULL,
+	rating DOUBLE(100, 2) NOT NULL,
+	PRIMARY KEY (postid)
+);
+
+CREATE TABLE IF NOT EXISTS Message (
+	text VARCHAR(1000) NOT NULL,
+	senderID INT(100) NOT NULL,
+	receiverID INT(100) NOT NULL,
+	createdTime TIMESTAMP
+);
